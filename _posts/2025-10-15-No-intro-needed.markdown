@@ -8,5 +8,5 @@ categories:
 
 No introduction needed. New projects coming soon.
 
-\**- KRPTN**
+**\- KRPTN**
 
